@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class Controller {
     @GetMapping("/all")
     public String getProjeBilgileri(){
-        return "Hello world - Ramazan";
+        return "rey";
     }
 
 }
